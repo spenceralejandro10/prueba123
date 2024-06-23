@@ -1,0 +1,22 @@
+{
+  "name": "flota-estelar",
+  "version": "1.0.0",
+  "description": "\"Aplicación de la Flota Estelar dedicada a la exploración, cooperación y paz interplanetaria. Únete a nuestra misión de descubrir nuevos mundos, establecer alianzas y promover la armonía en el universo. ¡Explora las estrellas con nosotros!\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "flota",
+    "estelar",
+    "exploración",
+    "cooperación",
+    "espacio"
+  ],
+  "author": "alejandro spencer",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mysql": "^2.18.1"
+  }
+}
